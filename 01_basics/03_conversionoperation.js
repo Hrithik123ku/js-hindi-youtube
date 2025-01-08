@@ -37,3 +37,8 @@ let score7 = undefined
 let value6 = Boolean(score7)
 console.log(value6)
 
+
+let score8 = true
+let value7 = String(score8)
+console.log(value7)
+console.log(typeof value7)
